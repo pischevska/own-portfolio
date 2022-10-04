@@ -47,12 +47,11 @@ body{
      .btn-outline-light{
         position: relative;
         top: 200px;
-        left: 150px;
         font-family: 'Abyssinica SIL', serif;
      }
      .text-center{
         position: relative;
-        top:120px;
+        top:110px;
         font-family: 'Abyssinica SIL', serif;
 
      }
